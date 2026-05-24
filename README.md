@@ -1,4 +1,6 @@
 Date 24-05-2026
+
+
 MYOSA Smart Building Monitoring and Safety System
 <img src="./assets/images/project_views/cover.jpg" width="900">
 Introduction
@@ -118,8 +120,7 @@ Demo Video
 
 The demo video of the project is available inside:
 
-<video controls width="100%">
-  <source src="./videos/demo_video.mp4" type="video/mp4">
+<video controls width="100%"> <source src="./videos/demo_video.mp4" type="video/mp4">
 </video>
 
 File structure
