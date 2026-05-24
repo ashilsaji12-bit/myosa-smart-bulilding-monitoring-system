@@ -117,31 +117,71 @@ Future improvements can include:
 ## Demo Video
 
 <video controls width="100%">
-  <source src="./videos/demo_videos.mp4" type="video/mp4">
+  <source src="./videos/demo_video.mp4" type="video/mp4">
 </video>
 
 
 
 MYOSA-Smart-Building/
+
+
 │
+
+
 ├── README.md
+
+
 │
+
+
 ├── code/
+
+
 │   └── smart_building.ino
+
+
 │
+
+
 ├── assets/
+
+
 │   └── images/
+
+
 │       ├── project_views/
+
+
 │       ├── oled_interface/
+
+
 │       ├── app_blynk/
+
+
 │       ├── alerts/
+
+
 │       └── sensors/
+
+
 │
+
+
 ├── videos/
+
+
 │   └── demo_video.mp4
+
+
 │
+
+
 └── docs/
+
+
     └── circuit_diagram.png
+
+    
     
 Conclusion
 
